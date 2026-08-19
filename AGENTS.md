@@ -3,6 +3,7 @@
 ## Product boundary
 
 AirRibbon is a Chinese PICO Spatial SDK Stage toy for quickly drawing spatial ribbon sculptures. It is not a precision modeller. The Android package is `com.pico.swan.airribbon`; the Stage launches in Mixed mode.
+The launcher-facing Chinese app label is `空间丝带`.
 
 ## Architecture
 
